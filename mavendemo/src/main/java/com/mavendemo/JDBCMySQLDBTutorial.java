@@ -6,7 +6,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
  
-public class CrunchifyMySQLDBTutorial {
+public class JDBCMySQLDBTutorial {
  
 	static Connection connection = null;
 	static PreparedStatement preparedStatement = null;
